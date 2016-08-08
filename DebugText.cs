@@ -1,7 +1,6 @@
 ﻿/*
  * ==================================================================
  *  DebugText.cs
- *  Land of the Setting Sun
  *
  *  Created by Parag Padubidri
  *  Copyright (c) 2016, Parag Padubidri. All rights reserved.
